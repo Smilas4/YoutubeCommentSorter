@@ -1,1 +1,3 @@
 # YoutubeCommentSorter
+
+##HOW TO INSTALL
